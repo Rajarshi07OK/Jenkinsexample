@@ -1,0 +1,10 @@
+package com.git;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		int sum=5+6;
+		System.out.println(sum);
+	}
+
+}
